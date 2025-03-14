@@ -9,5 +9,3 @@ inoremap kk <Esc>
 set tabstop=4 				" Tabs to appear 4 chars wide
 set shiftwidth=4 smarttab	" Pressing <Tab> will turn to 4 spaces
 set expandtab				" Vim to use spaces for all tab chars
-
-	
