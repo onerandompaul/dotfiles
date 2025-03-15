@@ -40,7 +40,8 @@ set linebreak
 
 " Remove Error Sounds
 set noerrorbells
-set visualbell
+set novisualbell
+set belloff=all
 
 " Use a line cursor within insert mode and a block cursor everywhere else.
 "   0  -> blinking block.
